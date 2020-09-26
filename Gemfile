@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'forem-theme-base', :git => "git://github.com/radar/forem-theme-base", :branch => "master"
+gem 'forem-theme-base', :git => "git://github.com/knewter/forem-theme-base", :branch => "master"
 
 gemspec
 
